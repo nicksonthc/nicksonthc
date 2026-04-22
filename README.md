@@ -2,7 +2,7 @@
 
 # Hi, I'm Nickson 👋
 
-**Full-Stack Software Engineer · Backend Specialist · Warehouse Automation**
+**Full-Stack Software Engineer · Backend Specialist · Warehouse Automation · AI Agent Engineering**
 
 [![Website](https://img.shields.io/badge/Portfolio-tanhoochuan.my-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://www.tanhoochuan.my/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nicksonthc)
@@ -18,6 +18,7 @@
 - 🏭 Currently building **warehouse automation systems** with multi-agent pathfinding for skycar robots
 - 🔬 Researching **Centralized Multi-Agent Path Finding (MAPF)** using CP-SAT solvers & OR-Tools
 - 🐍 Specializing in **Python · FastAPI · PostgreSQL · Docker** backend stacks
+- 🤖 Building **AI agents with MCP servers & Claude Code skills** for internal process automation and project domain knowledge
 - 🌏 Based in **Penang, Malaysia** — serving multinational clients
 - 🚀 Love taking products from **zero to one** — architecture, backend, infra, all of it
 - 🏃 Marathon runner when not debugging path planners
@@ -73,15 +74,12 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksonthc&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicksonthc&column=8&theme=tokyonight&no-frame=true&margin-w=4" />
-</div>
 
 ---
 
 ## 🌱 Currently Exploring
 
-- 🤖 Agentic AI workflows with MCP servers & Claude Code
+- 🤖 Advancing **multi-agent orchestration** — composing skills, tools, and domain-aware agents at scale
 - 📐 Event sourcing & domain-driven design patterns
 - 🌍 Building software products for overseas B2B clients
 
